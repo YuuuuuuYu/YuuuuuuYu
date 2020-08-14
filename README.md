@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Link
-### Tistory
-#### memories95.tistory.com
-### Brunch
-#### brunch.co.kr/@yeonghak77
+[![Tistory Badge](https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Tistory&logoColor=white&link=https://memories95.tistory.com)](https://memories95.tistory.com)
+[![Brunch Badge](https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Brunch&logoColor=white&link=https://brunch.co.kr/@yeonghak77)](https://brunch.co.kr/@yeonghak77)
