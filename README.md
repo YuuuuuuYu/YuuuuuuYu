@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🏚 Link
-<a href="https://yuuuuuuyu.github.io" target="_blank"><img src="https://img.shields.io/badge/github_page-222222?style=for-the-badge&logo=github&logoColor=white"></img></a>
-<a href="https://memories95.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></img></a>
+<a href="https://yuuuuuuyu.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github_page-222222?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://memories95.tistory.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a>
 
 ## ✏ Skill
 ![badge](https://img.shields.io/badge/main-444444?style=for-the-badge)
