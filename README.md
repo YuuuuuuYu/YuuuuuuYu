@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 [![badge](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://memories95.tistory.com)
 
 ## ✏ Skill
-![badge](https://img.shields.io/badge/pri-444444?style=for-the-badge)
-![badge](https://img.shields.io/badge/java-FFFFFF?style=for-the-badge)
-![badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![badge](https://img.shields.io/badge/main-444444?style=for-the-badge)
+![badge](https://img.shields.io/badge/java/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![badge](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![badge](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![badge](https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
-![badge](https://img.shields.io/badge/sec-666666?style=for-the-badge)
+![badge](https://img.shields.io/badge/sub-666666?style=for-the-badge)
 ![badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
