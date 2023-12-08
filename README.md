@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Link
+## 🏚 Link
 [![badge](https://img.shields.io/badge/github_page-222222?style=for-the-badge&logo=github&logoColor=white)](https://yuuuuuuyu.github.io)
 [![badge](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://memories95.tistory.com)
 
-## Skill
+## ✏ Skill
 ![badge](https://img.shields.io/badge/pri-444444?style=for-the-badge)
 ![badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![badge](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![badge](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-## Stats
+## 🍳 Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=yuuuuuuyu&show_icons=true&theme=transparent&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuuuuuyu&layout=compact&exclude_repo=yuuuuuuyu.github.io)
