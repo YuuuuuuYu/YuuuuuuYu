@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ![badge](https://img.shields.io/badge/sub-666666?style=for-the-badge)
 ![badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![badge](https://img.shields.io/badge/etc-888888?style=for-the-badge)
