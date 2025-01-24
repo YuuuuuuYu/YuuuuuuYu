@@ -1,3 +1,5 @@
+### [스위프 8기](https://swyp.swyg.im/) 진행중 (25.01.15 ~)
+
 ## 🏚 Link
 [![badge](https://img.shields.io/badge/github_page-222222?style=for-the-badge&logo=github&logoColor=white)](https://yuuuuuuyu.github.io)
 [![badge](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://memories95.tistory.com)
