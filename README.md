@@ -1,7 +1,6 @@
 ## 👨‍💻 Activity
 ### [스위프 8기](https://swyp.swyg.im/) (25.01.15 ~ 25.03.15) 
-<a href="https://www.photopic.site/" target="_blank">SITE</a>
-<a href="https://github.com/SWYP-team-2th/server" target="_blank">REPO</a>
+[SITE](https://www.photopic.site/)/[REPO](https://github.com/SWYP-team-2th/server)
 
 ## 🏚 Link
 [![badge](https://img.shields.io/badge/github_page-222222?style=for-the-badge&logo=github&logoColor=white)](https://yuuuuuuyu.github.io)
