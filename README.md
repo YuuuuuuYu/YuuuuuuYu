@@ -1,4 +1,6 @@
-### [스위프 8기](https://swyp.swyg.im/) 진행중 (25.01.15 ~)
+## 👨‍💻 Activity
+### [스위프 8기](https://swyp.swyg.im/) (25.01.15 ~ 25.03.15)
+[Repo](https://github.com/SWYP-team-2th/server)
 
 ## 🏚 Link
 [![badge](https://img.shields.io/badge/github_page-222222?style=for-the-badge&logo=github&logoColor=white)](https://yuuuuuuyu.github.io)
