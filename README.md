@@ -5,5 +5,3 @@
 
 ## 🍳 Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=yuuuuuuyu&show_icons=true&theme=transparent&count_private=true)    
-![LeetCode Stats](https://leetcard.jacoblin.cool/YuuuuuuYu?theme=light&font=Noto%20Sans%20Kaithi)    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonghak77)](https://solved.ac/yeonghak77)
